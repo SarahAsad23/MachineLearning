@@ -6,7 +6,7 @@ the shape of nych_y is (300,) indicating that it is a 1D array.
 Q2. there are 300 data points in the data set and each data point 
 has 3 features. 
 
-Q3. There are 3 lables: 0: Manhattan; 1: Bronx; 2: Staten Island.
+Q3. There are 3 labels: 0: Manhattan; 1: Bronx; 2: Staten Island.
 
 
 ***3.3***
